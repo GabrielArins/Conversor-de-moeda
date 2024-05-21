@@ -1,3 +1,6 @@
+// Conversor simples de R$ para US$ usando a API dos dados abertos do banco central.
+
+
 <!DOCTYPE html>
 <html lang="PT-BR">
 <head>
